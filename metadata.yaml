@@ -1,0 +1,32 @@
+_repo: Aspects-of-Reproduction-and-Development-in-the-Prairie-Vole--Microtus-ochrogaster-_37450
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37450-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fitch, Henry S. (Henry Sheldon)
+    birthdate: 1909
+    deathdate: 2009
+    gutenberg_agent_id: '36389'
+    url: http://www.gutenberg.org/2009/agents/36389
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Voles'
+- !lcsh 'Prairie vole'
+- !lcsh 'Microtus'
+title: Aspects of Reproduction and Development in the Prairie Vole (Microtus ochrogaster)
+url: http://www.gutenberg.org/ebooks/37450
